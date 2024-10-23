@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github.oi/Emp-React/static/css/main.c2c1c489.css",
+    "main.js": "/github.oi/Emp-React/static/js/main.40332374.js",
+    "static/js/453.55554122.chunk.js": "/github.oi/Emp-React/static/js/453.55554122.chunk.js",
+    "index.html": "/github.oi/Emp-React/index.html",
+    "main.c2c1c489.css.map": "/github.oi/Emp-React/static/css/main.c2c1c489.css.map",
+    "main.40332374.js.map": "/github.oi/Emp-React/static/js/main.40332374.js.map",
+    "453.55554122.chunk.js.map": "/github.oi/Emp-React/static/js/453.55554122.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2c1c489.css",
+    "static/js/main.40332374.js"
+  ]
+}
