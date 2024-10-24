@@ -1,0 +1,12 @@
+.card-header {
+    cursor: pointer;
+  }
+  
+  input, select, textarea {
+    margin-bottom: 10px;
+  }
+  
+  .btn {
+    margin-top: 20px;
+  }
+  

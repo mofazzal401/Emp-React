@@ -1,0 +1,15 @@
+.rounded-circle {
+    border-radius: 50%;
+    
+  }
+  #img{cursor: pointer;
+
+  }
+
+  table tbody tr td{
+    background-color: brown;
+    text-align: center;
+    vertical-align: baseline;
+  }
+
+  
